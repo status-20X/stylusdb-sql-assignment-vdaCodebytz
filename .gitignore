@@ -131,3 +131,8 @@ dist
 
 
 **/.DS_Store
+
+# Personal Files
+./src/index2.js
+./src/queryParser2.js
+.src/dev.js
